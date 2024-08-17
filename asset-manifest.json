@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6faed20.css",
+    "main.js": "/static/js/main.0aa0ce34.js",
+    "static/media/bg.png": "/static/media/bg.a58f4120413af49a1f56.png",
+    "static/media/timer.png": "/static/media/timer.085e9711a8e1f3fb865c.png",
+    "static/media/id_frame.png": "/static/media/id_frame.e38d3f27a606facd32fc.png",
+    "static/media/navitem_3.png": "/static/media/navitem_3.4fdaafdddacd9df1437b.png",
+    "static/media/bg_2.png": "/static/media/bg_2.65fbd6eb797f4f9b9238.png",
+    "static/media/navitem_1.png": "/static/media/navitem_1.a291a6b035e7758d485f.png",
+    "static/media/navitem_5.png": "/static/media/navitem_5.c2f7465cc98981700dfe.png",
+    "static/media/navitem_4.png": "/static/media/navitem_4.852d5af6a2952fe596af.png",
+    "static/media/navitem_2.png": "/static/media/navitem_2.8c72fd6b76b7d6de2577.png",
+    "static/media/bull_2.png": "/static/media/bull_2.554dc83da54f88132fcc.png",
+    "static/media/DS-DIGI.TTF": "/static/media/DS-DIGI.0ef0e2249326c34137c8.TTF",
+    "static/media/bull_1.png": "/static/media/bull_1.41deca7a01b96615743e.png",
+    "static/media/partner_logo.png": "/static/media/partner_logo.eb3a794edeb6665efb11.png",
+    "static/media/navitem_6.png": "/static/media/navitem_6.f3863af60b9a76188c74.png",
+    "static/media/frame_filled.png": "/static/media/frame_filled.4fb026a2893328a7098e.png",
+    "static/media/CONFIRM_btn.png": "/static/media/CONFIRM_btn.505fe10f34804041bcad.png",
+    "static/media/connect_twitter.png": "/static/media/connect_twitter.01aac01f808e9307668b.png",
+    "static/media/invite_btn.png": "/static/media/invite_btn.a6b0ff569c347164acd7.png",
+    "static/media/APPLY_btn.png": "/static/media/APPLY_btn.2bbaae6605ef4c7f4a2d.png",
+    "static/media/frame_png.png": "/static/media/frame_png.ed13f626c6f35e1717c1.png",
+    "static/media/input_frame.png": "/static/media/input_frame.3dd2e7c2567e64c38a4a.png",
+    "index.html": "/index.html",
+    "main.b6faed20.css.map": "/static/css/main.b6faed20.css.map",
+    "main.0aa0ce34.js.map": "/static/js/main.0aa0ce34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6faed20.css",
+    "static/js/main.0aa0ce34.js"
+  ]
+}
